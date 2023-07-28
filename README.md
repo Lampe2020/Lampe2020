@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [`L2020FS`](https://github.com/Stehlampe2020/L2020FS), a JSON-based web file system simulation primarily for [L2020OS](https://os.lampe2020.de).
-- 🌱 I’m currently learning [Python3](https://www.python.org/)
+- 🔭 I’m currently working on [L2DB](https://github.com/Stehlampe2020/L2DB), a simple binary database format.
+- 🌱 I’m currently learning [Python3](https://www.python.org/) and [Java](https://www.java.com/).
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with [PyPerfScore](https://github.com/Stehlampe2020/PyPerfScore.git) and [L2020FS](https://github.com/Stehlampe2020/L2020FS.git).
+- 🤔 I’m looking for help with [L2DB](https://github.com/Stehlampe2020/L2DB.git) and [L2020FS](https://github.com/Stehlampe2020/L2020FS.git).
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
 - 😄 Pronouns: 
